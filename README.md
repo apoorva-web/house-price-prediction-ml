@@ -144,8 +144,9 @@ house-price-prediction-ml/
 │
 ├── house_pricing.ipynb
 ├── house_pricing.csv
+├── README.md
 ├── requirements.txt
-└── README.md
+└── .gitignore
 ```
 
 ## Limitations
